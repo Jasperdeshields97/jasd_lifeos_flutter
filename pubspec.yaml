@@ -1,0 +1,28 @@
+name: jasd_lifeos_flutter
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15
+  fl_chart: ^0.64.0
+  intl: ^0.18.0
+  collection: ^1.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+
+
+
+ 
